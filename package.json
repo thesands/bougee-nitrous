@@ -1,7 +1,7 @@
 {
   "name": "bougee",
   "version": "0.1.0",
-  "homepage": "thesands.github.io",
+  "homepage": "https://thesands.github.io/bougee-nitrous",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
